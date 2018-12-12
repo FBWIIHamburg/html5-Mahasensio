@@ -3,10 +3,16 @@ body {
   font-size: 0.9em;
 }
 
-header, footer {
+header, footer{
   padding: 10px;
   color: white;
   background-color: black;
+}
+
+.text{
+  padding-left: 10%;
+  padding-right: 10%;
+
 }
 
 section{
