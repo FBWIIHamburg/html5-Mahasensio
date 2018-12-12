@@ -29,12 +29,19 @@ article {
   background-color: white;
 }
 
+nav{
+  padding-left: 10%;
+  padding-right: 10%;
+}
+
 nav ul {
-  padding: 0;
+  padding: 10px;
 }
 
 nav ul li {
   display: inline;
   margin: 5px;
+  color: white;
+  float: right;
 }
 
