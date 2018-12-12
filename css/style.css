@@ -19,6 +19,8 @@ section{
   margin: 5px;
   padding: 10px;
   background-color: lightgrey;
+  padding-left: 10%;
+  padding-right: 10%;
 }
 
 article {
@@ -35,3 +37,4 @@ nav ul li {
   display: inline;
   margin: 5px;
 }
+
